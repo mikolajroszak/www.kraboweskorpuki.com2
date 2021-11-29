@@ -54,6 +54,6 @@
     "lodash": "4.17.10",
     "openzeppelin-solidity": "1.10.0",
     "truffle": "5.1.42",
-    "@truffle/hdwallet-provider": "1.0.43"
+    "@truffle/hdwallet-provider": "1.6.0"
   }
 }
