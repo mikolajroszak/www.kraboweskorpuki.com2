@@ -6825,10 +6825,10 @@ onetime@^5.1.0:
   dependencies:
     mimic-fn "^2.1.0"
 
-openzeppelin-solidity@1.10.0:
-  version "1.10.0"
-  resolved "https://registry.yarnpkg.com/openzeppelin-solidity/-/openzeppelin-solidity-1.10.0.tgz#d77eee6653f5958d051318a61ba0b436f92216c0"
-  integrity sha512-igkrumQQ2lrN2zjeQV4Dnb0GpTBj1fzMcd8HPyBUqwI0hhuscX/HzXiqKT6gFQl1j9Wy/ppVVs9fqL/foF7Gmg==
+openzeppelin-solidity@1.12.0:
+  version "1.12.0"
+  resolved "https://registry.yarnpkg.com/openzeppelin-solidity/-/openzeppelin-solidity-1.12.0.tgz#7b9c55975e73370d4541e3442b30cb3d91ac973a"
+  integrity sha512-WlorzMXIIurugiSdw121RVD5qA3EfSI7GybTn+/Du0mPNgairjt29NpVTAaH8eLjAeAwlw46y7uQKy0NYem/gA==
 
 optionator@^0.8.1, optionator@^0.8.2:
   version "0.8.3"
@@ -9062,8 +9062,6 @@ uri-js@^4.2.2:
   version "4.4.0"
   resolved "https://registry.yarnpkg.com/uri-js/-/uri-js-4.4.0.tgz#aa714261de793e8a82347a7bcc9ce74e86f28602"
   integrity sha512-B0yRTzYdUCCn9n+F4+Gh4yIDtMQcaJsmYBDsTSG8g/OejKBodLQ2IHfN3bM7jUsRXndopT7OIXWdYqc1fjmV6g==
-  dependencies:
-    punycode "^2.1.0"
 
 urix@^0.1.0:
   version "0.1.0"
